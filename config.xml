@@ -3,7 +3,7 @@ widget xmlns=httpwww.w3.orgnswidgets
 xmlnsgap=httpphonegap.comns1.0
 id =com.phonegap.api-request
 version=1.0.0
-name Picture Memory name
+namePicture Memory name
 preference name = Fullscreen value=true
 description This application is my first hybrid Applicationdescription
 icon src=Clothing13_in_game.png 
